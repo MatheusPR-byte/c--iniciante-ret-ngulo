@@ -1,2 +1,4 @@
 # csharp-iniciante
-Calculo da área do retângulo, Perímetro do retângulo, Diagonal do retângulo.
+Calculo da Área do Retângulo, 
+Perímetro do Retângulo, 
+Diagonal do retângulo.
