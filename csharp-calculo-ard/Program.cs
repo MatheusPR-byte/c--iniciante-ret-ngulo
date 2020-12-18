@@ -30,6 +30,7 @@ namespace AreaPerimetroDiagonal
         }
     }
 
+// curso exercicio
 // retângulo
 // base = 5.0 / altura = 4.0
 
