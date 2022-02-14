@@ -39,3 +39,9 @@ namespace AreaPerimetroDiagonal
 // PERIMETRO =
 // DIAGONAL =
 // 4 decimos
+
+// TRIANGULO = A*C / 2
+// CIRCULO =  3.14159 * (C * C)
+// TRAPEZIO = (A+B) * C / 2
+// QUADRADO = B * B
+// RENTAGULO = B * C
